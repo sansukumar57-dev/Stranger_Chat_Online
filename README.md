@@ -92,7 +92,7 @@ node server.js
 Open your browser
 
 ```
-http://localhost:3000
+http://strangers-chat-online.vercel.app/
 ```
 
 ---
